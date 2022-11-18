@@ -1,23 +1,5 @@
 
 
-JeanExtreme002
-/
-FlightRadarAPI
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-FlightRadarAPI/FlightRadar24/flight.py
-@JeanExtreme002
-JeanExtreme002 fixed set_flight_details() method
- 1 contributor
-190 lines (140 sloc)  8.65 KB
-# -*- coding: utf-8 -*-
-
 class Flight(object):
 
     __default_text = "N/A"
